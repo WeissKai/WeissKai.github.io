@@ -37,8 +37,8 @@ aside:
 # 格式：链接 || 图标
 # 所有可用图标参考：https://fontawesome.com/icons
 social:
-  # GitHub: https://github.com/yourname || fab fa-github
-  # E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+   GitHub: https://github.com/WeissKai || fab fa-github
+   E-Mail: luok3279@gmail.com || fa fa-envelope
   # BiliBili: https://space.bilibili.com/0000000 || fa-brands fa-bilibili
   # Weibo: https://weibo.com/yourname || fab fa-weibo
   # Zhihu: https://www.zhihu.com/people/yourname || fab fa-zhihu
@@ -50,8 +50,8 @@ post:
   excerpt: true # 是否在文章中显示摘要内容（<!-- more--> 以上的内容）
   # 文章末显示打赏二维码
   reward:
-    # 支付宝 | Alipay: img/Alipay.png
-    # 微信 | Wechat: img/WeChat.png
+     支付宝 | Alipay: img/Alipay.png
+     微信 | Wechat: img/WeChat.png
   # 以下两项依赖 hexo-wordcount，请参阅 README 开启
   count: false # 是否显示字数统计
   time: false # 是否显示预计阅读时长
